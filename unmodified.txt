@@ -1,3 +1,4 @@
+git add is done ,but before i commit it ,I want to modify it before!
 modified
 commit but not push
 addone
